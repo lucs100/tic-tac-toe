@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Lucas\Documents\projects\C++\SFML - Tic-Tac-Toe\main.cpp(63,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lucas\Documents\projects\C++\SFML - Tic-Tac-Toe\main.cpp(114,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lucas\Documents\projects\C++\SFML - Tic-Tac-Toe\main.cpp(152,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lucas\Documents\projects\C++\SFML - Tic-Tac-Toe\main.cpp(152,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lucas\Documents\projects\C++\SFML - Tic-Tac-Toe\main.cpp(153,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lucas\Documents\projects\C++\SFML - Tic-Tac-Toe\main.cpp(153,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lucas\Documents\projects\C++\SFML - Tic-Tac-Toe\main.cpp(212,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Lucas\Documents\projects\C++\SFML - Tic-Tac-Toe\main.cpp(258,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lucas\Documents\projects\C++\SFML - Tic-Tac-Toe\main.cpp(88): warning C4715: 'getAiMove': not all control paths return a value
+  SFML - Tic-Tac-Toe.vcxproj -> C:\Users\Lucas\Documents\projects\C++\SFML - Tic-Tac-Toe\Debug\SFML - Tic-Tac-Toe.exe

@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\Lucas\Documents\projects\C++\SFML - Tic-Tac-Toe\main.cpp(154,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lucas\Documents\projects\C++\SFML - Tic-Tac-Toe\main.cpp(154,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lucas\Documents\projects\C++\SFML - Tic-Tac-Toe\main.cpp(189,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lucas\Documents\projects\C++\SFML - Tic-Tac-Toe\main.cpp(199,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lucas\Documents\projects\C++\SFML - Tic-Tac-Toe\main.cpp(244,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lucas\Documents\projects\C++\SFML - Tic-Tac-Toe\main.cpp(328,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lucas\Documents\projects\C++\SFML - Tic-Tac-Toe\main.cpp(378,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lucas\Documents\projects\C++\SFML - Tic-Tac-Toe\main.cpp(378,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lucas\Documents\projects\C++\SFML - Tic-Tac-Toe\main.cpp(379,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lucas\Documents\projects\C++\SFML - Tic-Tac-Toe\main.cpp(379,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lucas\Documents\projects\C++\SFML - Tic-Tac-Toe\main.cpp(395,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Lucas\Documents\projects\C++\SFML - Tic-Tac-Toe\main.cpp(511,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lucas\Documents\projects\C++\SFML - Tic-Tac-Toe\main.cpp(514,27): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  0 of 610 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SFML - Tic-Tac-Toe.vcxproj -> C:\Users\Lucas\Documents\projects\C++\SFML - Tic-Tac-Toe\Release\SFML - Tic-Tac-Toe.exe
